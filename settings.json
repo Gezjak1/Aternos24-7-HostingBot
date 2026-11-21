@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Sleepy_Joe",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Bizzare2.aternos.me:34767",
+    "port": 34767,
     "version": "",
     "try-creative": false
   },
