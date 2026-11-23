@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Bizzare2.aternos.me",
+    "ip": "Bizzare2.aternos.me:34767",
     "port": 34767,
     "version": "26.3 (257)",
     "try-creative": false
